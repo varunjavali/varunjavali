@@ -4,22 +4,22 @@
 ---
 
 ### About Me
-- 🎓 MCA Student (2024–2026)
-- 💻 Flutter & Backend Developer
-- ☁️ Learning DevOps (AWS, Docker, Kubernetes)
-- 🔥 Passionate about building & deploying real-world applications
-- 🎯 Open to internships & entry-level roles
+-  MCA Student (2024–2026)
+-  Flutter & Backend Developer
+-  Learning DevOps (AWS, Docker, Kubernetes)
+-  Passionate about building & deploying real-world applications
+-  Open to internships & entry-level roles
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
-#### 💻 Programming
+####  Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### 🌐 Development
+####  Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varunjavali&show_icons=true&theme=radical" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📈 Top Languages
+###  Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjavali&layout=compact&theme=radical" />
@@ -53,11 +53,11 @@
 
 ---
 
-### 🔥 DevOps Focus
-- ☁️ AWS (EC2, S3, IAM, RDS)
-- 🐳 Docker (Containerization)
-- ☸️ Kubernetes (Deployments & Services)
-- ⚙️ CI/CD (Learning phase)
+###  DevOps Focus
+-  AWS (EC2, S3, IAM, RDS)
+-  Docker (Containerization)
+-  Kubernetes (Deployments & Services)
+-  CI/CD (Learning phase)
 
 ---
 
