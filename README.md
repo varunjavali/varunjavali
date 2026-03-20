@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Software Developer</h3>
+<h1 align="center">Hi , I'm Varun Kumar</h1>
+<h3 align="center"> DevOps Enthusiast | Software Developer</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🎓 MCA Student (2024–2026)
 - 💻 Flutter & Backend Developer
 - ☁️ Learning DevOps (AWS, Docker, Kubernetes)
@@ -67,5 +67,4 @@
 
 ---
 
-### 🚀 Fun Quote
-> "Build it. Deploy it. Scale it." 🚀
+ 
