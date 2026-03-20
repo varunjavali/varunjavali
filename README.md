@@ -1,9 +1,16 @@
 <h1 align="center">Hi , I'm Varun Kumar J A</h1>
-<h3 align="center"> DevOps Enthusiast | Software Developer</h3>
+
+<h3 align="center">
+ DevOps Engineer (AWS | Docker | Kubernetes) | Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Flutter+Developer;Open+to+Opportunities🚀&center=true&width=500&height=45">
+</p>
 
 ---
 
-### About Me
+###  About Me
 -  MCA Student (2024–2026)
 -  Flutter & Backend Developer
 -  Learning DevOps (AWS, Docker, Kubernetes)
@@ -24,12 +31,12 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ DevOps & Cloud
+####  DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-#### 🛠 Tools
+####  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -53,21 +60,29 @@
 
 ---
 
-###  DevOps Focus
--  AWS (EC2, S3, IAM, RDS)
--  Docker (Containerization)
--  Kubernetes (Deployments & Services)
--  CI/CD (Learning phase)
+###  GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varunjavali&theme=radical&row=1&column=6" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+###  DevOps Focus
+- ☁️ AWS (EC2, S3, IAM, RDS)
+- 🐳 Docker (Containerization)
+- ☸️ Kubernetes (Deployments & Services)
+- ⚙️ CI/CD (Learning phase)
+
+---
+
+###  Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-25D366?style=for-the-badge)](https://varunjavali.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/varunjavali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/varun-javali)
-- 
 
 ---
 
- 
+### 💡 Quote
+> "Build it. Containerize it. Deploy it. Scale it." 🚀
