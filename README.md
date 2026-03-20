@@ -61,9 +61,12 @@
 
 ---
 
-### 🌐 Connect with Me
-- 🔗 GitHub: https://github.com/varunjavali
-- 💼 LinkedIn: https://linkedin.com/in/varun-javali
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-25D366?style=for-the-badge)](https://varunjavali.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/varunjavali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/varun-javali)
+- 
 
 ---
 
