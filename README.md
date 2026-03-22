@@ -15,7 +15,7 @@
 -  Flutter & Backend Developer
 -  Learning DevOps (AWS, Docker, Kubernetes)
 -  Passionate about building & deploying real-world applications
--  Open to internships & entry-level roles
+-  Open to Work
 
 ---
 
