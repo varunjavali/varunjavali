@@ -33,7 +33,7 @@ availability: Immediate Joining · On-site & Remote
 
 ## 💼 Experience
 
-### 🚀 DevOps Engineer Intern — Vtricks Technologies *(2025 · Completed)*
+### 🚀 DevOps Engineer Intern — Vtricks Technologies *(2026 · Completed)*
 > Hands-on with the full DevOps stack in a real production environment
 
 - ☁️ Provisioned **AWS** infrastructure (EC2, S3, IAM, RDS, EKS) using **Terraform** (IaC)
@@ -158,7 +158,7 @@ Cross-platform real-time dashboard visualizing live IoT sensor data with dynamic
 |---|---|---|
 | 🛠️ DevOps Tools | Simplilearn | [View ↗](https://simpli-web.app.link/e/P4lL8rAlI1b) |
 | ⚡ JavaScript | Simplilearn | [View ↗](https://simpli-web.app.link/e/veOILCtaI1b) |
-| 🚀 DevOps Engineering Internship | Vtricks Technologies | 2025 |
+| 🚀 DevOps Engineering Internship | Vtricks Technologies | 2026 |
 
 ---
 
