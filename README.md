@@ -23,7 +23,7 @@ location    : Bengaluru / Davangere, Karnataka, India
 education   : MCA @ UBDT College of Engineering, VTU (2024–2026)
               BCA @ Davangere University — CGPA 8.1/10 (2023)
 internships :
-  - DevOps Engineer Intern  @ Vtricks Technologies (2025)
+  - DevOps Engineer Intern  @ Vtricks Technologies (2026)
 focus       : DevOps · Cloud · Full-Stack · Mobile Development
 status      : Open to Internship / Entry-level Roles ✅
 availability: Immediate Joining · On-site & Remote
